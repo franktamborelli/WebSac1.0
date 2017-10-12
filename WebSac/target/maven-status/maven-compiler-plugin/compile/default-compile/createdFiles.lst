@@ -1,0 +1,6 @@
+br\com\websac\bean\ClienteBean.class
+br\com\websac\entity\GenericEntity.class
+br\com\websac\dao\ClienteDao.class
+br\com\websac\entity\Cliente.class
+br\com\websac\util\HibernateUtil.class
+br\com\websac\dao\GenericDao.class
